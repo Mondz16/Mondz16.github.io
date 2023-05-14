@@ -343,28 +343,13 @@ body,
 /* start home page */
 
 #body-space {
-    height: 120px;
+    height: 280px;
 }
 
 .body{
-    height: 570px;
     display: flex;
     flex-wrap: wrap;
     align-items: center;
-}
-
-#home-content {
-    height: fit-content;
-}
-
-#image-holder {
-    width: 550px;
-    height: 550px;
-}
-
-#image-holder img{
-    width: 350px;
-    height: 350px;
 }
 
 #home-content h2 {
