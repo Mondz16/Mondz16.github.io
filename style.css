@@ -664,6 +664,7 @@ ul {
     overflow-x: scroll;
     overflow-y: hidden;
     padding: 0 0 40px 0;
+    scrollbar-width: none;
 }
 
 #about-fourth-content-details {
